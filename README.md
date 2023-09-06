@@ -44,4 +44,6 @@ docker-compose -f docker-compose.test.yml up
 ```
 
 And then all tests will be ran and the status exit code will be 0 or 1 that means true or false.
-Testing the automatic trigger
+Testing the automatic trigger\
+
+testchange
